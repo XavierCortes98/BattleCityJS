@@ -1,6 +1,6 @@
 Proyecto desarrollado mediante el metodo de agile
 
-Lenguage JavaScript mediante Node
+Lenguage JavaScript
 
 Es la entrega final de la asignatura en la que emulamos el juego al 100%, con sus diferentes escenas, puntuación y la logica necesaria para el funcionamiento
 
